@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><item>
+
+<item>
+<title>[COLOR yellow]CAMARON[/COLOR] [COLOR blue] TODAS LAS CANCIONES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=JgHDpIIwbq0&amp;list=PL73H7p40VJ8UQy-VUIl9TAjvSaNjaMpf5</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=JgHDpIIwbq0&amp=&list=PL73H7p40VJ8UQy-VUIl9TAjvSaNjaMpf5
+ 
+                        <thumbnail>https://yt3.ggpht.com/-eauUT596hmU/AAAAAAAAAAI/AAAAAAAAAAA/mLT3IcMQ5CM/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+                        <fanart>https://yt3.ggpht.com/-eauUT596hmU/AAAAAAAAAAI/AAAAAAAAAAA/mLT3IcMQ5CM/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR orange]CAMARON[/COLOR] [COLOR blue]VIDEOS POPULARES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=VKtAhJPZS6o&amp;list=PL73H7p40VJ8XIbU-Ks1niC460sPUqMGb6</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=VKtAhJPZS6o&list=PL73H7p40VJ8XIbU-Ks1niC460sPUqMGb6
+                        <thumbnail>https://i.ytimg.com/vi/lWlxgB85xJo/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/lWlxgB85xJo/hqdefault.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR blue]DISCOGRAFIA [/COLOR][COLOR pink]DE CAMARON [/COLOR]</title>
+<thumbnail>http://estaticos03.elmundo.es/elmundo/imagenes/2012/06/28/andalucia/1340721723_2.jpg</thumbnail>
+<fanart>http://estaticos03.elmundo.es/elmundo/imagenes/2012/06/28/andalucia/1340721723_2.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elanonimo35/elgitano/master/camaron/discografia%20camaro.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR yellow]CONCIERTOS  [/COLOR][COLOR green]DE CAMARON [/COLOR]</title>
+<thumbnail>http://www.biografiasyvidas.com/reportaje/camaron/fotos/camaron_6.jpg</thumbnail>
+<fanart>http://www.biografiasyvidas.com/reportaje/camaron/fotos/camaron_6.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elanonimo35/elgitano/master/camaron/CONCIERTOS.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR pink]ESPECIALES SOBRE [/COLOR][COLOR fuchsia] CAMARON [/COLOR]</title>
+<thumbnail>http://img.rtve.es/v/956913?w=1180&preview=1291987104192.jpg</thumbnail>
+<fanart>http://img.rtve.es/v/956913?w=1180&preview=1291987104192.jpg</fanart>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/elanonimo35/elgitano/master/camaron/especiales.xml</externallink>
+</item>

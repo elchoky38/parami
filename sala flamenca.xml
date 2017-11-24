@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR green]SALA[/COLOR] [COLOR yellow]FLAMENCA[/COLOR]</title>
+<thumbnail>https://media-cdn.tripadvisor.com/media/photo-s/06/b5/a9/50/sala-flamenco.jpg</thumbnail>
+<fanart>https://media-cdn.tripadvisor.com/media/photo-s/06/b5/a9/50/sala-flamenco.jpg</fanart>
+<link>ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR pink]VIDEOCLIPS FLAMENCOS NUEVOS [/COLOR][COLOR red] 2017[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A1V5jXqL0GE</link>
+<thumbnail>https://i.ytimg.com/vi/A1V5jXqL0GE/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]NOVEDADES FLAMENQUITO   [/COLOR] [COLOR blue]2017[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=7aY2mqbDsXw&amp;list=PLA_I2ay5YcUUKiZshI4cgp9fTOS-Q6B1E</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=7aY2mqbDsXw&list=PLA_I2ay5YcUUKiZshI4cgp9fTOS-Q6B1E
+                        <thumbnail>https://3.bp.blogspot.com/-6cD6SOfrUHQ/WeCjtZN3mwI/AAAAAAAAEkA/_yy9wTbeIF4f6mGNewvLRRWU3o9gL1PvACK4BGAYYCw/s400/%25C3%25ADndice.jpg</thumbnail>
+                        <fanart>https://3.bp.blogspot.com/-6cD6SOfrUHQ/WeCjtZN3mwI/AAAAAAAAEkA/_yy9wTbeIF4f6mGNewvLRRWU3o9gL1PvACK4BGAYYCw/s400/%25C3%25ADndice.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]RUMBAS  [/COLOR] [COLOR blue]PORTUGUESAS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=D0i5F95uMlU&amp;list=PLxEyryE3x1Ajmev_mp7XppRLg3envzFSa</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=D0i5F95uMlU&list=PLxEyryE3x1Ajmev_mp7XppRLg3envzFSa
+                        <thumbnail>https://i.ytimg.com/vi/ibdzqhe71Sg/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/ibdzqhe71Sg/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]RUMBAS  [/COLOR] [COLOR blue]PORTUGUESAS olee[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=7HrHpChVj-A&amp;list=PLDAEA0B6FB72942FA</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=7HrHpChVj-A&list=PLDAEA0B6FB72942FA
+                        <thumbnail>https://i.ytimg.com/vi/RbUc4I9RvvY/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/RbUc4I9RvvY/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]RUMBAS  [/COLOR] [COLOR blue]PORTUGUESAS 3[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zQ5PlVqRaQk&amp;list=PL029143AD1F9722D4</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=zQ5PlVqRaQk&list=PL029143AD1F9722D4
+                        <thumbnail>https://i.ytimg.com/vi/uAjq7VusStw/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/uAjq7VusStw/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR yellow]FLAMENCO SALSERO [/COLOR] [COLOR blue]2017 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=7QZGXlA3PaQ&amp;list=PLPmqeqDcZCjv5DDlxUtTdeXomLP1NKUh2</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=7QZGXlA3PaQ&list=PLPmqeqDcZCjv5DDlxUtTdeXomLP1NKUh2
+                        <thumbnail>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]FLAMENCO SALSERO [/COLOR] [COLOR blue]2017--2 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4ArU-PejujU&amp;list=PLSHslI-YheBaFQWNKBLpX-Vj3pY5VpOdP</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=4ArU-PejujU&list=PLSHslI-YheBaFQWNKBLpX-Vj3pY5VpOdP
+                        <thumbnail>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]FLAMENCO SALSERO [/COLOR] [COLOR blue]2017--3 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=xkzfNt7-oMI&amp;list=PLK86DD3lzJ0Ao2rslDLWcUA7_ntUT-Ps2</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=xkzfNt7-oMI&list=PLK86DD3lzJ0Ao2rslDLWcUA7_ntUT-Ps2
+                        <thumbnail>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR yellow]FLAMENCO SALSERO [/COLOR] [COLOR blue]4 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RRe_8T8dCQU&amp;list=PLOGfwdB4UauCyNSNe-JFJ362R-x43VEuN</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=RRe_8T8dCQU&list=PLOGfwdB4UauCyNSNe-JFJ362R-x43VEuN
+                        <thumbnail>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/zRGLGtygf0w/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]FLAMENCO ELECTRO [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=c9l52OnnE1o&amp;list=PLDD6546605DD00B40</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=c9l52OnnE1o&list=PLDD6546605DD00B40
+                        <thumbnail>https://i.ytimg.com/vi/rYXufu1-v00/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/rYXufu1-v00/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR green]LOS [/COLOR][COLOR white]ACTIVOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=cHnDutTwMro&amp;list=PLPbOvCorAaEZDa3QsUhJta3ertSTAT58s&index=1</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+ 
+                        <thumbnail>https://i.ytimg.com/vi/IinzlE4TBNI/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/IinzlE4TBNI/hqdefault.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR red]VEO[/COLOR] [COLOR pink]FLAMEN[/COLOR][COLOR coral]CO[/COLOR]</title>   
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC-YwjkdWJPqxcdg1laMfi2g</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-1eh3_M3nlxM/AAAAAAAAAAI/AAAAAAAAAAA/JKHsqJgeDB0/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange] FLAMENCO [/COLOR][COLOR yellow]GIPSY[/COLOR][COLOR coral]100[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCdp8by6nVO4u-8sGL5wL-Gw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-2_TXAQw39vg/AAAAAAAAAAI/AAAAAAAAAAA/_sUI4HpKptA/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+https://www.youtube.com/channel/UC31ft3-DF83Zdixf3W3U2Qg
+
+
+
+<item>
+<title>[COLOR brown] FLAMENCO [/COLOR][COLOR fuchsia]FLAC[/COLOR][COLOR coral]100[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC31ft3-DF83Zdixf3W3U2Qg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-guVJD0l9sVw/AAAAAAAAAAI/AAAAAAAAAAA/CjUN8A0OxOY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] LOS [/COLOR][COLOR white]MELLIS[/COLOR][COLOR blue] DE HUELVA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCAwUUQ-yKGoO9NvXUk2PLog</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-R9fywYNcoJo/AAAAAAAAAAI/AAAAAAAAAAA/xH5uiIXzUZQ/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] FLAMENCO [/COLOR][COLOR green]TEMA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCDMcMBvxEBA2mcnC18KSh5A</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/GPP6I3O5ph4/hqdefault.jpg</thumbnail>
+</item>
+
+https://www.youtube.com/channel/UCwV38xUF_stWUqqY75C6Pvg
+
+
+
+<item>
+<title>[COLOR white] RUMBO [/COLOR][COLOR yellow]AL [/COLOR][COLOR green]FLAMENCO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCwV38xUF_stWUqqY75C6Pvg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-sahSvFDsrEo/AAAAAAAAAAI/AAAAAAAAAAA/TVtPkaaSBV8/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+https://www.youtube.com/channel/UC4HZHzSQafyuCshf_VKDRYA
+
+
+<item>
+<title>[COLOR pink]FLAMENCO [/COLOR] [COLOR red]T[/COLOR][COLOR coral]V[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC4HZHzSQafyuCshf_VKDRYA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-oPPpmso2LxM/AAAAAAAAAAI/AAAAAAAAAAA/g4AfMGbfN7I/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR green]FLAMENCO [/COLOR] [COLOR brown]BENAL[/COLOR][COLOR yellow]MADENA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCGeQuXhp-9qMsF2wcEGChRw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-_REVFbsnSuQ/AAAAAAAAAAI/AAAAAAAAAAA/LiO8Q-rYidc/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]NORTE[/COLOR] [COLOR fuchsia]FLA[/COLOR][COLOR pink]MENCO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCqwNneTUxQEIK0zhzRA6qBg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-9wvsfr06MyM/AAAAAAAAAAI/AAAAAAAAAAA/QJ19iYLujO0/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR brown]GRUPO[/COLOR] [COLOR yellow]JEREZ[/COLOR][COLOR white]FLAMENCO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCVZbjBqS1VTaHqRrI8668XA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-N61UTqDi1Rs/AAAAAAAAAAI/AAAAAAAAAAA/pIYtg_YGyfk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>

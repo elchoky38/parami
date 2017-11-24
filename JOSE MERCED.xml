@@ -1,0 +1,32 @@
+<item>
+<title>[COLOR green]VIDEOS DE JOSE MERCED[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=xzxyefhCQXg&amp;list=PL6lqml5OGdIlMo4g-DEs5vdptW21L6Z6Z</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=xzxyefhCQXg&list=PL6lqml5OGdIlMo4g-DEs5vdptW21L6Z6Z
+
+
+                        <thumbnail>https://murciatoday.com/images/articles/30293_jose-merce-tops-the-bill-at-the-2016-cante-de-las-minas-festival-in-la-union_1_large.jpg</thumbnail>
+						<fanart>https://murciatoday.com/images/articles/30293_jose-merce-tops-the-bill-at-the-2016-cante-de-las-minas-festival-in-la-union_1_large.jpg</fanart>
+
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]JOSÉ MERCÉ-MORAITO-PURO Y JONDO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wYiR0ohGDGQ</link>
+<thumbnail>https://cloud10.todocoleccion.online/videos-dvd-musicales/tc/2014/01/28/23/41295740.jpg</thumbnail>
+</item>
+

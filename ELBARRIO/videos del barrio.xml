@@ -1,0 +1,75 @@
+
+
+<item>
+<title>[COLOR orange]VIDEOS DEL BARRIO 1[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=LOjxW_DjqIM&amp;list=PLk2fdGebzhRZZodPDdfepnvIb8m-dtQ8A</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=LOjxW_DjqIM&list=PLk2fdGebzhRZZodPDdfepnvIb8m-dtQ8A
+
+ 
+                        <thumbnail>https://i.ytimg.com/vi/hiyTkiQfffE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/hiyTkiQfffE/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]VIDEOS DEL BARRIO 2[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=tnt2qy6WpmU&amp;list=PL4B047B7551C2AC02</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=tnt2qy6WpmU&list=PL4B047B7551C2AC02
+
+ 
+                        <thumbnail>https://i.ytimg.com/vi/hiyTkiQfffE/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/hiyTkiQfffE/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

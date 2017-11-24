@@ -1,0 +1,354 @@
+<item>
+<title>[COLOR orange]EL BARRIO YO SUENO FLAMENCO 1996[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=LhpcoUujK_o&amp;list=PL76ToI3Mh6ZD-5L_dUamc5wsCMJSLqnjk</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=LhpcoUujK_o&list=PL76ToI3Mh6ZD-5L_dUamc5wsCMJSLqnjk
+ 
+                        <thumbnail>https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/1/8/8429652007816/tsp20131014171052/Yo-sueno-flamenco.jpg</thumbnail>
+<fanart>https://static.fnac-static.com/multimedia/ES/images_produits/ES/ZoomPE/6/1/8/8429652007816/tsp20131014171052/Yo-sueno-flamenco.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]EL Barrio - Mi secreto 1998 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=kgZsasDR_JA&amp;list=PLA129960772B8735A</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=kgZsasDR_JA&list=PLA129960772B8735A
+ 
+                        <thumbnail>http://images.coveralia.com/audio/e/El_Barrio-Mi_Secreto-Frontal.jpg</thumbnail>
+<fanart>http://images.coveralia.com/audio/e/El_Barrio-Mi_Secreto-Frontal.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]El Barrio - Mal de Amores 1999 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=dV47CikZeGw&amp;list=PL0dbQkgd5abG52ePrBt9tBtzJU57aOjju</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=dV47CikZeGw&list=PL0dbQkgd5abG52ePrBt9tBtzJU57aOjju
+
+ 
+                        <thumbnail>https://www.music-bazaar.com/album-images/vol1013/55/55718/94729-big/Mal-De-Amores-cover.jpg</thumbnail>
+<fanart>https://www.music-bazaar.com/album-images/vol1013/55/55718/94729-big/Mal-De-Amores-cover.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]El Barrio - La Fuente del deseo 2000 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=XAvvzoi8grg&amp;list=PLuvG5gCr3h6ud469Ol7HT102OIP2Gf2jo</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=XAvvzoi8grg&list=PLuvG5gCr3h6ud469Ol7HT102OIP2Gf2jo
+
+ 
+                        <thumbnail>https://i.ytimg.com/vi/jD_dpetzJZI/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jD_dpetzJZI/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange] El Barrio - Me voy al mundo 2002[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=U2FjXPBM_uo&amp;list=PL0dbQkgd5abF1CQNYY-vnTLpooieP2Ata</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=U2FjXPBM_uo&list=PL0dbQkgd5abF1CQNYY-vnTLpooieP2Ata
+
+ 
+                        <thumbnail>https://mp3red.me/cover/2341788-460x460/me-voy-al-mundo.jpg</thumbnail>
+<fanart>https://mp3red.me/cover/2341788-460x460/me-voy-al-mundo.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]EL BARRIO ANGEL MALHERIDO 2003 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=AQeBVIpa2YU&amp;list=PL00D4C58D948E4C12</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=AQeBVIpa2YU&list=PL00D4C58D948E4C12
+
+ 
+                        <thumbnail>https://i.ytimg.com/vi/MvJgbIBzCWg/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MvJgbIBzCWg/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]el barrio las playas de invierno 2005 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=p5CRKn_5fm4&amp;list=PL7F2D6194513355BE</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=p5CRKn_5fm4&list=PL7F2D6194513355BE
+ 
+                        <thumbnail>https://images.shazam.com/coverart/t59502758-b603228034_s400.jpg</thumbnail>
+<fanart>https://images.shazam.com/coverart/t59502758-b603228034_s400.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]La Voz De Mi Silencio 2007 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=poCtP8KrsLU&amp;list=PL5BE076829D764FC9</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=poCtP8KrsLU&list=PL5BE076829D764FC9
+ 
+                        <thumbnail>http://st-listas.20minutos.es/images/2008-05/18104/305809_640px.jpg?1215341132</thumbnail>
+<fanart>http://st-listas.20minutos.es/images/2008-05/18104/305809_640px.jpg?1215341132</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Duermevela 2009[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=wWER6237GwU&amp;list=PLD5AF6B61A20C2955</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=wWER6237GwU&list=PLD5AF6B61A20C2955
+ 
+                        <thumbnail>https://i.ytimg.com/vi/WMxO_QmAJF0/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/WMxO_QmAJF0/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Espejos 2011 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=LCm41XYZOJE&amp;list=PLBFE47C8BB1669EC4</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=LCm41XYZOJE&list=PLBFE47C8BB1669EC4
+ 
+                        <thumbnail>http://streamd.hitparade.ch/cdimages/el_barrio-espejos_a.jpg</thumbnail>
+<fanart>http://streamd.hitparade.ch/cdimages/el_barrio-espejos_a.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Hijo Del Levante 2014 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=XikQHEXxdd0&amp;list=PLjNamaAdW4Hz4fJ5kYDL14Q4xdnqSu4nS</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=XikQHEXxdd0&list=PLjNamaAdW4Hz4fJ5kYDL14Q4xdnqSu4nS
+ 
+                        <thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201409/15/00105110274916____1__640x640.jpg</thumbnail>
+<fanart>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201409/15/00105110274916____1__640x640.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Las Costuras del Alma 2017  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=lvxhXbumOJQ&amp;list=PL-VkyHFNzIP-IRgpgjIYE4mVGl7KQ-qQm</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=lvxhXbumOJQ&list=PL-VkyHFNzIP-IRgpgjIYE4mVGl7KQ-qQm
+ 
+                        <thumbnail>http://megadiscos.xyz/wp-content/uploads/2017/10/Descargar-El-Barrio-Las-Costuras-Del-Alma-Mega-Album-2017.jpg</thumbnail>
+<fanart>http://megadiscos.xyz/wp-content/uploads/2017/10/Descargar-El-Barrio-Las-Costuras-Del-Alma-Mega-Album-2017.jpg</fanart>
+ 
+</item>
+
+

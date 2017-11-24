@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR pink]AL VERTE LAS FLORES [/COLOR][COLOR fuchsia]LLORAN 1969 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=EachFAA35Do&amp;list=PLB44D5596BD1ED502</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=EachFAA35Do&list=PLB44D5596BD1ED502
+
+                        <thumbnail>http://cps-static.rovicorp.com/3/JPG_500/MI0002/814/MI0002814129.jpg</thumbnail>
+                        <fanart>http://cps-static.rovicorp.com/3/JPG_500/MI0002/814/MI0002814129.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR blue]CADA VEZ QUE NOS [/COLOR][COLOR yellow]MIRAMOS 1970[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=sXTSirXVdgU&amp;list=PL4D7FA9B8719C1734</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=sXTSirXVdgU&list=PL4D7FA9B8719C1734
+                        <thumbnail>http://cps-static.rovicorp.com/3/JPG_500/MI0001/842/MI0001842445.jpg</thumbnail>
+                        <fanart>http://cps-static.rovicorp.com/3/JPG_500/MI0002/814/MI0002814129.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR pink]SON TU OJOS [/COLOR][COLOR fuchsia] DOS ESTRELLAS 1971[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=d9W_1JXhJuQ&amp;list=PL9AD0506BF6BFA492</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=sXTSirXVdgU&list=PL4D7FA9B8719C1734
+                        <thumbnail>http://cps-static.rovicorp.com/3/JPG_500/MI0001/774/MI0001774934.jpg</thumbnail>
+                        <fanart>http://cps-static.rovicorp.com/3/JPG_500/MI0001/774/MI0001774934.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR orange]CANASTERA [/COLOR][COLOR red] 1972[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=qBZh6x4taks&amp;list=PL3664B597F62A82F8</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=6W-Wqa4JeoE&list=PLFBAA793F6130369F
+
+                        <thumbnail>http://3.bp.blogspot.com/-sdDE6fgZ-O0/VYWSJFam3sI/AAAAAAAAKeQ/XhlQ96ZEPxM/s400/CamaronLuc%25C3%25ADa0001b.jpg</thumbnail>
+                        <fanart>http://3.bp.blogspot.com/-sdDE6fgZ-O0/VYWSJFam3sI/AAAAAAAAKeQ/XhlQ96ZEPxM/s400/CamaronLuc%25C3%25ADa0001b.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR blue]CAMINITO DE [/COLOR][COLOR yellow]TOTANA 1973[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=vOsM8hBaybU&amp;list=PL9697F30B9EA16ECE</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>http://www.flamencoexport.com/photo/productos&2Fcd_s&2Fartistasdestacados&2Fcaminito-de-totana-camaron/500x500/Caminito-de-Totana---Camaron-de-la-Isla.jpg</thumbnail>
+                        <fanart>http://www.flamencoexport.com/photo/productos&2Fcd_s&2Fartistasdestacados&2Fcaminito-de-totana-camaron/500x500/Caminito-de-Totana---Camaron-de-la-Isla.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR green]SOY CAMINANTE [/COLOR][COLOR fuchsia] 1974[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=fAdGaU3oOl0&amp;list=PLDA5F378B7D046925</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2013/02/18/35854211.jpg</thumbnail>
+                        <fanart>https://cloud10.todocoleccion.online/discos-vinilo/tc/2013/02/18/35854211.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR green]ARTE Y[/COLOR][COLOR fuchsia] MAJESTAD 1975[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=IZt72xC90_0&amp;list=PL36BDE9850B8182E6</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51G29PMYBKL.jpg</thumbnail>
+                        <fanart>https://images-na.ssl-images-amazon.com/images/I/51G29PMYBKL.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR green]ARTE Y[/COLOR][COLOR fuchsia] MAJESTAD 1975[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=IZt72xC90_0&amp;list=PL36BDE9850B8182E6</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51G29PMYBKL.jpg</thumbnail>
+                        <fanart>https://images-na.ssl-images-amazon.com/images/I/51G29PMYBKL.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR red]ROSAMARIA[/COLOR][COLOR coral]1976[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=cPce7SNJdp8&amp;list=PLD71E288D6AD2342D</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=cPce7SNJdp8&list=PLD71E288D6AD2342D
+
+                        <thumbnail>https://pxhst.co/avaxhome/25/97/00439725_medium.jpg</thumbnail>
+                        <fanart>https://pxhst.co/avaxhome/25/97/00439725_medium.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]CASTILLOS DE [/COLOR][COLOR red]ARENA 1977 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=6W-Wqa4JeoE&amp;list=PLFBAA793F6130369F</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=6W-Wqa4JeoE&list=PLFBAA793F6130369F
+
+                        <thumbnail>https://i.ytimg.com/vi/xbIqVzf6PUo/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/xbIqVzf6PUo/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR green ]LA LEYENDA[/COLOR][COLOR blue] DEL TIEMPO 1979 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=f5GEuExelp4&amp;list=PL004562EFBDF2532F</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=f5GEuExelp4&list=PL004562EFBDF2532F
+                        <thumbnail>https://i.ytimg.com/vi/MrUWtOtfwDw/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/MrUWtOtfwDw/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR brown ]COMO EL[/COLOR][COLOR blue] AGUA 1981 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Mcp3tsGe664&amp;list=PLB672069766911080</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>https://i.ytimg.com/vi/kfW02l5QEcw/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/kfW02l5QEcw/hqdefault.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR coral] CALLE [/COLOR][COLOR brown]REAL 1983 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=XKGN5-TgXbA&amp;list=PL4CF5933AFF2695A0</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=XKGN5-TgXbA&list=PL4CF5933AFF2695A0
+
+                        <thumbnail>https://img.discogs.com/Kxv2EYYvuUHGZoYk10_gGQuiR-8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254229-1408646085-1597.jpeg.jpg</thumbnail>
+                        <fanart>https://img.discogs.com/Kxv2EYYvuUHGZoYk10_gGQuiR-8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254229-1408646085-1597.jpeg.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR fuchsia] VIVIRE [/COLOR][COLOR pink] 1984[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=LJ08jBCsdx8&amp;list=PL3F697C269A572267</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=LJ08jBCsdx8&list=PL3F697C269A572267
+
+                        <thumbnail>http://cloud10.todocoleccion.online/discos-vinilo/tc/2016/10/03/21/61770720.jpg</thumbnail>
+                        <fanart>http://cloud10.todocoleccion.online/discos-vinilo/tc/2016/10/03/21/61770720.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR fuchsia] TE LO DICE [/COLOR][COLOR pink] CAMARON 1986[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=sk-5KwW4ikI&amp;list=PLD6138807BD11A8E8</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=sk-5KwW4ikI&list=PLD6138807BD11A8E8
+
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2016/08/11/09/58506303.jpg</thumbnail>
+                        <fanart>https://cloud10.todocoleccion.online/discos-vinilo/tc/2016/08/11/09/58506303.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR fuchsia ]PARIS [/COLOR][COLOR yellow] 1987[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=D07Wai3sswE&amp;list=PL999B0EC4101EABA6</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=D07Wai3sswE&list=PL999B0EC4101EABA6
+
+                        <thumbnail>http://cloud10.todocoleccion.online/musica-cds/tc/2014/04/20/22/42922992.jpg</thumbnail>
+                        <fanart>http://cloud10.todocoleccion.online/musica-cds/tc/2014/04/20/22/42922992.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR green]FLAMENCO  [/COLOR][COLOR blue]VIVO 1987[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Pd8oR-eCVPU&amp;list=PLCF1F59A5C9611BA9</page>
+             <cookieJar></cookieJar>
+</regex>
+
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2013/04/27/36950749.jpg</thumbnail>
+                        <fanart>https://cloud10.todocoleccion.online/discos-vinilo/tc/2013/04/27/36950749.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR green] SOY [/COLOR][COLOR blue]GITANO 1989[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Wb0i1mqlkeg&amp;list=PL411D4AB44A2863B3</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=Wb0i1mqlkeg&list=PL411D4AB44A2863B3
+
+                        <thumbnail>https://img.discogs.com/YdD1cX6uxxoL4A6toonMKbarncs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2892935-1470848892-9798.jpeg.jpg</thumbnail>
+                        <fanart>https://img.discogs.com/YdD1cX6uxxoL4A6toonMKbarncs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2892935-1470848892-9798.jpeg.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red]POTRO DE [/COLOR][COLOR orange]RABIA Y MIEL 1992 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=lVh3_W4KcKo&amp;list=PLy2MWwc0C39xOSMdIBMxw5naMyApkpy9i</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=lVh3_W4KcKo&list=PLy2MWwc0C39xOSMdIBMxw5naMyApkpy9i
+
+                        <thumbnail>https://i.ytimg.com/vi/ok3QG2DcyYM/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/ok3QG2DcyYM/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR ] CAMARON [/COLOR][COLOR ]NUESTRO 1994 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=bZ-0Q82Tmc4&amp;list=PLE9ABF7C23A0D61D8</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=bZ-0Q82Tmc4&list=PLE9ABF7C23A0D61D8
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2011/09/30/28699447.jpg</thumbnail>
+                        <fanart>https://cloud10.todocoleccion.online/discos-vinilo/tc/2011/09/30/28699447.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

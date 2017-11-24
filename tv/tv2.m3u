@@ -1,0 +1,569 @@
+#EXTM3U
+#EXTINF:-1,**********TDT**********
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53817.ts
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53815.ts
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53814.ts
+#EXTINF:-1,ES: ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53813.ts
+#EXTINF:-1,ES: Antena 3 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63746.ts
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53812.ts
+#EXTINF:-1,ES: CUATRO hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63723.ts
+#EXTINF:-1,ES: CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54204.ts
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53811.ts
+#EXTINF:-1,ES: La Sexta hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63672.ts
+#EXTINF:-1,ES: LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53810.ts
+#EXTINF:-1,ES: LA SEXTA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54183.ts
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53807.ts
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53809.ts
+#EXTINF:-1,ES: Nova hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63719.ts
+#EXTINF:-1,A3S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53802.ts
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53801.ts
+#EXTINF:-1,ES: Energy Dual II HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53903.ts
+#EXTINF:-1,ES: DIVINITY Dual II HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53904.ts
+#EXTINF:-1,ES: DIVINITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54197.ts
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53786.ts
+#EXTINF:-1,COSMO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53910.ts
+#EXTINF:-1,ES: MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53808.ts
+#EXTINF:-1,ES: COSMO HD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54205.ts
+#EXTINF:-1,ES: BeMad TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53803.ts
+#EXTINF:-1,ES: ARAGON TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53693.ts
+#EXTINF:-1,ES: CANAL SUR ANDALUCIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53691.ts
+#EXTINF:-1,ES: GALICIA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53698.ts
+#EXTINF:-1,ES: CASTILLA LA MANCHA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53694.ts
+#EXTINF:-1,ES: TELEMADADRID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53695.ts
+#EXTINF:-1,ES: EITB SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53697.ts
+#EXTINF:-1,ES: ANDALUCIA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53925.ts
+#EXTINF:-1,ES: Esperanza TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53902.ts
+#EXTINF:-1,ES: Nonstop People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53872.ts
+#EXTINF:-1,ES: TV3 Cat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53860.ts
+#EXTINF:-1,ES: ANDALUCIA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54177.ts
+#EXTINF:-1,**********MOVISTAR**********
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53818.ts
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63750.ts
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54009.ts
+#EXTINF:-1,MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53798.ts
+#EXTINF:-1,Movistar Estrenos SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63736.ts
+#EXTINF:-1,MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53797.ts
+#EXTINF:-1,Movistar Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63737.ts
+#EXTINF:-1,Movistar Accion sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54037.ts
+#EXTINF:-1,MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53796.ts
+#EXTINF:-1,Movistar Comedia hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63735.ts
+#EXTINF:-1,Movistar DCine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53795.ts
+#EXTINF:-1,Movistar Dcine hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63722.ts
+#EXTINF:-1,Movistar Dcine Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53794.ts
+#EXTINF:-1,Paramount Channel sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63718.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53789.ts
+#EXTINF:-1,ES: AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53781.ts
+#EXTINF:-1,Amc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53926.ts
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53780.ts
+#EXTINF:-1,ES: Hollywood uhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63673.ts
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53791.ts
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63706.ts
+#EXTINF:-1,ES: taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65142.ts
+#EXTINF:-1,ES: taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65141.ts
+#EXTINF:-1,ES: taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65140.ts
+#EXTINF:-1,ES: Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65139.ts
+#EXTINF:-1,ES: Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65138.ts
+#EXTINF:-1,Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53793.ts
+#EXTINF:-1,Movistar series hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54018.ts
+#EXTINF:-1,ES: Movistar Series Xtra hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63733.ts
+#EXTINF:-1,Movistar Xtra hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63729.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53785.ts
+#EXTINF:-1,ES: Comedy Central hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63724.ts
+#EXTINF:-1,ES: COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54175.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53783.ts
+#EXTINF:-1,ES: AXN WHITE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53782.ts
+#EXTINF:-1,AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63745.ts
+#EXTINF:-1,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53784.ts
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63749.ts
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53788.ts
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63676.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53787.ts
+#EXTINF:-1,ES: Fox Life uhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63675.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53790.ts
+#EXTINF:-1,SyFy hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63743.ts
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53792.ts
+#EXTINF:-1,ES: TNT hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63740.ts
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54156.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53716.ts
+#EXTINF:-1,ES: BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53714.ts
+#EXTINF:-1,ES: PANDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53719.ts
+#EXTINF:-1,CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53912.ts
+#EXTINF:-1,ES: DISNEY CH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53711.ts
+#EXTINF:-1,DISNEY Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53906.ts
+#EXTINF:-1,ES: DISNEY CHANNEL  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54200.ts
+#EXTINF:-1,ES: Disney Channel uhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63683.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54053.ts
+#EXTINF:-1,ES: DISNEY JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53712.ts
+#EXTINF:-1,Nick Jr Spain HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53874.ts
+#EXTINF:-1,ES: DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53713.ts
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53905.ts
+#EXTINF:-1,ES: NIC JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53717.ts
+#EXTINF:-1,ES: Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53718.ts
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/65171.ts
+#EXTINF:-1,CRIMEN + INVESTIGACION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53771.ts
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53772.ts
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63748.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53777.ts
+#EXTINF:-1,ES: DISCOVERY MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53778.ts
+#EXTINF:-1,DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53715.ts
+#EXTINF:-1,DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53806.ts
+#EXTINF:-1,Historia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53913.ts
+#EXTINF:-1,ES: HISTORIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53773.ts
+#EXTINF:-1,ODISSEA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53774.ts
+#EXTINF:-1,Odissea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53870.ts
+#EXTINF:-1,National Geografic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53877.ts
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53876.ts
+#EXTINF:-1,National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53776.ts
+#EXTINF:-1,ES: NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53775.ts
+#EXTINF:-1,NatGeo WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53878.ts
+#EXTINF:-1,ES: CAZA Y PESCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53767.ts
+#EXTINF:-1,IBERALIA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53770.ts
+#EXTINF:-1,Iberalia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54172.ts
+#EXTINF:-1,ES: CAZA Y PESCA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54207.ts
+#EXTINF:-1,ES: Caza y pesca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54019.ts
+#EXTINF:-1,Canal Cocina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53914.ts
+#EXTINF:-1,ES: CANAL COCINA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53765.ts
+#EXTINF:-1,ES: CANAL DECASA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53766.ts
+#EXTINF:-1,Decasa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53907.ts
+#EXTINF:-1,SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53867.ts
+#EXTINF:-1,ES: SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53779.ts
+#EXTINF:-1,ES: mtv base
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53731.ts
+#EXTINF:-1,90s
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53737.ts
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53710.ts
+#EXTINF:-1,ES: HIST NJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53703.ts
+#EXTINF:-1,ES: telemusica SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53705.ts
+#EXTINF:-1,ES: TOP LATINO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53707.ts
+#EXTINF:-1,ES: TOROS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53768.ts
+#EXTINF:-1,Toros TV hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63739.ts
+#EXTINF:-1,ES: GOL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53761.ts
+#EXTINF:-1,ES: GOL Tv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54024.ts
+#EXTINF:-1,ES: REAL MADRID TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53730.ts
+#EXTINF:-1,ES: Real Madrid TV hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63717.ts
+#EXTINF:-1,ES: BARCA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53729.ts
+#EXTINF:-1,ES: TELEDEPORTE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53720.ts
+#EXTINF:-1,ES: Teledeporte hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63741.ts
+#EXTINF:-1,ES: BEIN SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53749.ts
+#EXTINF:-1,ES: bein sports hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63727.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54203.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53724.ts
+#EXTINF:-1,ES: Movistar  Deportes 2 uhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63691.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54220.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53723.ts
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53728.ts
+#EXTINF:-1,ES: Eurosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53901.ts
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53727.ts
+#EXTINF:-1,ES: MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53721.ts
+#EXTINF:-1,Movistar  Golf hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63730.ts
+#EXTINF:-1,ES: MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53726.ts
+#EXTINF:-1,ES: Movistar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53880.ts
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54168.ts
+#EXTINF:-1,ES: MOVISTAR F1  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54006.ts
+#EXTINF:-1,ES: Movistar Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63687.ts
+#EXTINF:-1,ES: MOVISTAR MOTO GP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53725.ts
+#EXTINF:-1,Movistar Moto gp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53884.ts
+#EXTINF:-1,Movistar Moto gp sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53879.ts
+#EXTINF:-1,Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53722.ts
+#EXTINF:-1,Movistar Futbol hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54043.ts
+#EXTINF:-1,Movistar  Futbol sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63731.ts
+#EXTINF:-1,ES: LaLiga TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53891.ts
+#EXTINF:-1,ES: LA LIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53760.ts
+#EXTINF:-1,ES: BEIN LALIGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53763.ts
+#EXTINF:-1,ES: La Liga tv hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/63728.ts
+#EXTINF:-1,ES: Bein Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54231.ts
+#EXTINF:-1,ES: MOVISTAR  PARTIDAZO LIVE SESSION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53764.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53758.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53757.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53756.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53755.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53754.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53753.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53752.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53751.ts
+#EXTINF:-1,ES: Bein Sport MAX Laliga 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53750.ts
+#EXTINF:-1,ES: BEINMAX 1 LIVE SESSION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53748.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53747.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53738.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53746.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53745.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53744.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53743.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53742.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53741.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53740.ts
+#EXTINF:-1,ES: BEIN SPORT MAX 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/53739.ts
+#EXTINF:-1,**********LATIN AMERECA*********
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54340.ts
+#EXTINF:-1,LA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54324.ts
+#EXTINF:-1,LA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54323.ts
+#EXTINF:-1,LA: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54322.ts
+#EXTINF:-1,LA: AYM SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54321.ts
+#EXTINF:-1,LA: AZ CORAZON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54320.ts
+#EXTINF:-1,LA: AZTECA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54319.ts
+#EXTINF:-1,LA: AZTECA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54318.ts
+#EXTINF:-1,LA: AZTECA MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54317.ts
+#EXTINF:-1,LA: BANDAMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54315.ts
+#EXTINF:-1,LA: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54314.ts
+#EXTINF:-1,LA: CANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54312.ts
+#EXTINF:-1,LA: CANAL DE LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54311.ts
+#EXTINF:-1,LA: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54310.ts
+#EXTINF:-1,LA: CINECANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54309.ts
+#EXTINF:-1,LA: CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54308.ts
+#EXTINF:-1,LA: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54306.ts
+#EXTINF:-1,LA: DE PELICULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54305.ts
+#EXTINF:-1,LA: DISCOVERY  HOME & HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54304.ts
+#EXTINF:-1,LA: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54303.ts
+#EXTINF:-1,LA: DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54302.ts
+#EXTINF:-1,LA: DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54301.ts
+#EXTINF:-1,LA: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54300.ts
+#EXTINF:-1,LA: DISCOVERY TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54299.ts
+#EXTINF:-1,LA: DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54298.ts
+#EXTINF:-1,LA: DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54297.ts
+#EXTINF:-1,LA: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54296.ts
+#EXTINF:-1,LA: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54295.ts
+#EXTINF:-1,LA: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54294.ts
+#EXTINF:-1,LA: DISTRITO COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54293.ts
+#EXTINF:-1,LA: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54292.ts
+#EXTINF:-1,LA: EL FINANCIERO BLOOMBERGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54291.ts
+#EXTINF:-1,LA: ELGOURMETH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54290.ts
+#EXTINF:-1,LA: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54289.ts
+#EXTINF:-1,LA: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54288.ts
+#EXTINF:-1,LA: FILM ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54285.ts
+#EXTINF:-1,LA: FORO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54284.ts
+#EXTINF:-1,LA: FOX ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54283.ts
+#EXTINF:-1,LA: FOX CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54281.ts
+#EXTINF:-1,LA: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54280.ts
+#EXTINF:-1,LA: FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54279.ts
+#EXTINF:-1,LA: FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54278.ts
+#EXTINF:-1,LA: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54277.ts
+#EXTINF:-1,LA: FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54276.ts
+#EXTINF:-1,LA: GALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54275.ts
+#EXTINF:-1,LA: GOLDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54274.ts
+#EXTINF:-1,LA: GOLDEN EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54273.ts
+#EXTINF:-1,LA: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54272.ts
+#EXTINF:-1,LA: HOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54271.ts
+#EXTINF:-1,LA: I-SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54270.ts
+#EXTINF:-1,LA: INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54269.ts
+#EXTINF:-1,LA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54268.ts
+#EXTINF:-1,LA: MILENIO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54267.ts
+#EXTINF:-1,LA: MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54266.ts
+#EXTINF:-1,LA: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54265.ts
+#EXTINF:-1,LA: NATGEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54263.ts
+#EXTINF:-1,LA: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54262.ts
+#EXTINF:-1,LA: NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54261.ts
+#EXTINF:-1,LA: NICK TOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54260.ts
+#EXTINF:-1,LA: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54259.ts
+#EXTINF:-1,LA: PROYECTO 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54258.ts
+#EXTINF:-1,LA: SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54257.ts
+#EXTINF:-1,LA: SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54256.ts
+#EXTINF:-1,LA: STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54255.ts
+#EXTINF:-1,LA: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54253.ts
+#EXTINF:-1,LA: TELEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54251.ts
+#EXTINF:-1,LA: TIIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54250.ts
+#EXTINF:-1,LA: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54249.ts
+#EXTINF:-1,LA: TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54248.ts
+#EXTINF:-1,LA: TRENDY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54247.ts
+#EXTINF:-1,LA: UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54246.ts
+#EXTINF:-1,LA: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54243.ts
+#EXTINF:-1,LA: WIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54241.ts
+#EXTINF:-1,LA: WARNER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/54242.ts
+#EXTINF:-1,******COLOMBIA*****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66590.ts
+#EXTINF:-1,COL: Cablenoticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66588.ts
+#EXTINF:-1,COL: Canal Capital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66587.ts
+#EXTINF:-1,COL: Canal U TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66586.ts
+#EXTINF:-1,COL: Canal Wow TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66585.ts
+#EXTINF:-1,COL: Cosmovision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66584.ts
+#EXTINF:-1,COL: DeporTv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66583.ts
+#EXTINF:-1,COL: Efekto TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66582.ts
+#EXTINF:-1,COL: El Correo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66581.ts
+#EXTINF:-1,COL: El Tiempo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66580.ts
+#EXTINF:-1,COL: Las Estrellas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66579.ts
+#EXTINF:-1,COL: Mello TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66578.ts
+#EXTINF:-1,COL: Melody TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66577.ts
+#EXTINF:-1,COL: Migente TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66576.ts
+#EXTINF:-1,COL: NeoxTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66575.ts
+#EXTINF:-1,COL: Tec TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66574.ts
+#EXTINF:-1,COL: Teleantioquia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66573.ts
+#EXTINF:-1,COL: Telemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66572.ts
+#EXTINF:-1,COL: Telemedellin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66571.ts
+#EXTINF:-1,COL: Telesistema Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4k.electrodahri.com:8000/live/123/123/66570.ts

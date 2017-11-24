@@ -1,0 +1,67 @@
+<item>
+<title>[COLOR blue]DIEGO EL CIGALA. CIGALA & TANGO. CONCIERTO TEATRO GRAN REX DE BUENOS AIRES [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K8HGzhsUuiY</link>
+<thumbnail>https://i.ytimg.com/vi/K8HGzhsUuiY/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]DIEGO EL CIGALA. CANCIONES [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CC7foiKKeDM</link>
+<thumbnail>https://i.ytimg.com/vi/CC7foiKKeDM/0.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]Bebo Valdes Y Diego El Cigala - CD Blanco Y Negro (en vivo) Live Concert[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VrQISg-aDQg</link>
+<thumbnail>http://68.media.tumblr.com/tumblr_lezqj0X1Oy1qcs0ud_1294971840_cover.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]Encuentro en el estudio VII: Diego El Cigala (capítulo completo) - Canal Encuentro HD [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BykC2uRC2oI</link>
+<thumbnail>https://i.ytimg.com/vi/BykC2uRC2oI/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]Mejores canciones: Diego el Cigala [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=bs73eGP0BEM&amp;list=PLYw5mk6LXy2cCKLpSh46lph32h-s0Cm1Q</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=bs73eGP0BEM&list=PLYw5mk6LXy2cCKLpSh46lph32h-s0Cm1Q
+
+
+                        <thumbnail>https://i.pinimg.com/736x/05/90/37/059037b68a637b5e186ebf244f9e008d--flamenco-madrid.jpg</thumbnail>
+						<fanart>https://i.pinimg.com/736x/05/90/37/059037b68a637b5e186ebf244f9e008d--flamenco-madrid.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+

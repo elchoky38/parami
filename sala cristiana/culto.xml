@@ -1,0 +1,105 @@
+<item>
+<title>[COLOR yellow]HERMANO CHELE  [/COLOR] [COLOR blue]CULTO [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=p1flQJI77HQ&amp;list=PLceqDQrvDPpQ13S2yM8bIMOjPkp5Y9oDW</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=p1flQJI77HQ&list=PLceqDQrvDPpQ13S2yM8bIMOjPkp5Y9oDW
+                        <thumbnail>https://i.ytimg.com/vi/zfo8IQIzCJc/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/zfo8IQIzCJc/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR yellow]VIDEOS  [/COLOR] [COLOR blue]CRISTIANOS [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=qzS8g13wIb8&amp;list=PL52CC4D13F3372352</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=qzS8g13wIb8&list=PL52CC4D13F3372352
+                        <thumbnail>https://pactonuevo.org/wp-content/uploads/2016/11/videos-culto-unido-valencia-2016-1.jpg</thumbnail>
+                        <fanart>https://pactonuevo.org/wp-content/uploads/2016/11/videos-culto-unido-valencia-2016-1.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]IGLESIA EVANGELICA FILADELFIA [/COLOR] [COLOR blue] DEL SINAI MADRID [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Gntm-kdGA-0&amp;list=PL1935DC922555D029</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=Gntm-kdGA-0&list=PL1935DC922555D029&index=1
+                        <thumbnail>https://i.ytimg.com/vi/BIDDIoGxa1g/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/BIDDIoGxa1g/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR yellow]FILADELFIA  [/COLOR] [COLOR blue]PREDICACIONES  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Mdtg2g_YZ5o&amp;list=PLjhi6UHYJaoM-7WdSZhn5F5V-H4IGa8XC</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=Mdtg2g_YZ5o&list=PLjhi6UHYJaoM-7WdSZhn5F5V-H4IGa8XC
+                        <thumbnail>https://i.ytimg.com/vi/1hBlG2R7TNQ/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/1hBlG2R7TNQ/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]JESUS SALAZAR [/COLOR] [COLOR blue]EL NIÑO PREDICADOR[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=kUo3vLfH6nM&amp;list=PLwFZ5SRwFHavVUxC-iMhHP3R2sHcqqRw9</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=kUo3vLfH6nM&list=PLwFZ5SRwFHavVUxC-iMhHP3R2sHcqqRw9
+                        <thumbnail>https://i.ytimg.com/vi/kUo3vLfH6nM/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/kUo3vLfH6nM/hqdefault.jpg</fanart>
+ 
+</item>

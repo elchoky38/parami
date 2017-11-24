@@ -1,0 +1,44 @@
+<item>
+<title>[COLOR orange] MEJORES CANCIONES: EL PAQUIRO  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=4vbluRxQg0Q&amp;list=PLeBY7J0l_hacIh2_u-EzQeQnYWntNekHV</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=4vbluRxQg0Q&list=PLeBY7J0l_hacIh2_u-EzQeQnYWntNekHV
+ 
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/fot/2008/06/24/9073314.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/discos-vinilo/fot/2008/06/24/9073314.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR orange] VIDEOS DE: EL PAQUIRO  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=xwDO9OUuAO4&amp;list=PLPbOvCorAaEYd4LPFYguoHqNOVI5jzZjm</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=xwDO9OUuAO4&list=PLPbOvCorAaEYd4LPFYguoHqNOVI5jzZjm
+ 
+                        <thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/fot/2008/06/24/9073314.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/discos-vinilo/fot/2008/06/24/9073314.jpg</fanart>
+ 
+</item>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR yellow]JUEGAS GITANAS [/COLOR] [COLOR orange]VIDEOS [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=-0yS0SfSlIw&amp;list=PLF1082985BA0B7586</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=--0yS0SfSlIw&list=PLF1082985BA0B7586
+                        <thumbnail>https://cloud10.todocoleccion.online/postales-dibujos-y-caricaturas/tc/2013/04/29/36986651.jpg</thumbnail>
+                        <fanart>https://cloud10.todocoleccion.online/postales-dibujos-y-caricaturas/tc/2013/04/29/36986651.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange]CAMARON DE JUERGA CON SU FAMILIA COMPLETA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JFrmeemg35Q</link>
+<thumbnail>https://i.ytimg.com/vi/JFrmeemg35Q/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]AURORA VARGAS-CAMARÓN-MANUELA CARRASCO-PAQUERA...FIESTA INNAGURACIÓN CANAL SUR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OdETZmalr9g</link>
+<thumbnail>https://i.ytimg.com/vi/OdETZmalr9g/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Juerga con los Montoyas. José Duart Gabarre.[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-s-0hwGc0Gc</link>
+<thumbnail>https://i.ytimg.com/vi/-s-0hwGc0Gc/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]BODA GITANA DE PURINKI FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-K04avIlsXg</link>
+<thumbnail>https://i.ytimg.com/vi/o1KmOfklUco/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]juerga entera boda kike y con farruquito farru canelita juan de juan remedios amaya viejino y mas[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fh8Xf2Qgygw</link>
+<thumbnail>https://i.ytimg.com/vi/fh8Xf2Qgygw/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]BODA GITANA 2017 DE ISABEL, LA FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e898Pxqk7Y8</link>
+<thumbnail>https://i.ytimg.com/vi/e898Pxqk7Y8/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Boda Gitana Gordos de Madrid[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ORT4qpqQK7g</link>
+<thumbnail>https://i.ytimg.com/vi/ORT4qpqQK7g/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]boda gitana zaragoza JOSUE Y YENI  LA JUERGA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b32JxinZQ3s</link>
+<thumbnail>https://i.ytimg.com/vi/b32JxinZQ3s/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]Kiki y Capu cantando en una boda Fernando Y Angara[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2HyAGfR9J8Y</link>
+<thumbnail>https://i.ytimg.com/vi/2HyAGfR9J8Y/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]BODA GITANA YUMARA, DESPUES DEL YELI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-PXWH2piDjs</link>
+<thumbnail>https://i.ytimg.com/vi/-PXWH2piDjs/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]BODA GITANA YUMARA, LA FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AtexJf2wmdg</link>
+<thumbnail>https://i.ytimg.com/vi/AtexJf2wmdg/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]SILVIA GORRETA, PELAYO, PEDRITO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V9f9HKiwTqk</link>
+<thumbnail>https://i.ytimg.com/vi/V9f9HKiwTqk/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange]PEDIMIENTO YOLI, BULERIAS[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fxirx10vlYg</link>
+<thumbnail>https://i.ytimg.com/vi/Fxirx10vlYg/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]18 Cumpleaños de Canelita[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kqzpzb56UsA</link>
+<thumbnail>https://i.ytimg.com/vi/HBYFDyee1DQ/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Canelita con Pedro el Granaino Los Farrucos y el Simon 1 parte[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=07DZls9vD1o</link>
+<thumbnail>https://i.ytimg.com/vi/07DZls9vD1o/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Canelita con Pedro el Granaino Los Farrucos y el Simon 2 parte[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lrbbeoOJlZM</link>
+<thumbnail>https://i.ytimg.com/vi/07DZls9vD1o/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Farruquito bailando en Boda Gitana Kike & Ana[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qymVLsXmMwY</link>
+<thumbnail>https://i.ytimg.com/vi/qymVLsXmMwY/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]Boda con Farruquito el Farru Vareta Domingo Nani[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6pgoYCbSebk</link>
+<thumbnail>https://i.ytimg.com/vi/6pgoYCbSebk/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]CANELITA DE JUERGA CON LOS GORDOS,  [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pPXSZHLuDS8</link>
+<thumbnail>https://i.ytimg.com/vi/CYibWrOJ-qY/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR pink]CUMPLEAÑOS NOEMI  [/COLOR][COLOR fuchsia]GIPSY KINGS - NOEMI SALAZAR [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IGI8zgUvZt0</link>
+<thumbnail>http://quemedices.diezminutos.es/var/qmd/storage/images/noticias-famosos/raquel-y-noemi-asi-son-reinas-del-brilli-brilli-los-gipsy-kings/10noemi/2203913-1-esl-ES/10noemi_ampliacion.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BAUTIZO MINI NOEMÍ GIPSY KINGS [/COLOR][COLOR fuchsia]CON LA REBE LA NOEMÍ SALAZAR [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7ROzX9iri3o</link>
+<thumbnail>https://i.ytimg.com/vi/7ROzX9iri3o/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]JUERGA[/COLOR][COLOR white] BODA[/COLOR][COLOR fuchsia] REME[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zEcslD31I9k</link>
+<thumbnail>https://i.ytimg.com/vi/Olq8bZPLt3Y/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR pink]JUERGA[/COLOR][COLOR white] GITANA DEL CORRAL [/COLOR][COLOR fuchsia] LA FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WtislLjCBiM</link>
+<thumbnail>https://i.ytimg.com/vi/Olq8bZPLt3Y/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR pink]JUERGA[/COLOR][COLOR white] BODA[/COLOR][COLOR fuchsia] JOSUE Y YENI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b32JxinZQ3s</link>
+<thumbnail>https://i.ytimg.com/vi/WtislLjCBiM/hqdefault.jpg</thumbnail>
+</item>
+
+
+

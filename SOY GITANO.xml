@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR green]DOCUMENTALES GITANOS (clic aqui)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=OSR8SCayhKQ&amp;list=RDOSR8SCayhKQ</page>
+             <cookieJar></cookieJar>
+</regex>
+
+
+                        <thumbnail>http://www.radioqk.org/wp-content/uploads/2014/05/Gitanos1.jpg</thumbnail>
+						<fanart>http://www.radioqk.org/wp-content/uploads/2014/05/Gitanos1.jpg</fanart>
+
+</item>
+
+
+<item>
+<title>[COLOR blue]Camaron en el bautizo de su hijo 1988 parte 1/2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AuiuTpxJbko</link>
+<thumbnail>https://i.ytimg.com/vi/AuiuTpxJbko/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]Camaron en el bautizo de su hijo 1988 parte 2/2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=55KoR5DY2G8</link>
+<thumbnail>https://i.ytimg.com/vi/AuiuTpxJbko/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR green]Clanes  [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5qXXXg4KKOg</link>
+<thumbnail>https://i.ytimg.com/vi/5qXXXg4KKOg/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]RITO Y GEOGRAFIA DEL CANTE FLAMENCO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=eVf2YXhvLmA&amp;list=PL22AD092B6BA4DB31</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=eVf2YXhvLmA&list=PL22AD092B6BA4DB31
+
+
+                        <thumbnail>https://cloud10.todocoleccion.online/videos-dvd-musicales/fot/2008/03/14/7812912.jpg</thumbnail>
+						<fanart>https://cloud10.todocoleccion.online/videos-dvd-musicales/fot/2008/03/14/7812912.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR `lime]DUENDE Y MISTERIO DEL FLAMENCO[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1624479</page>
+<rawpost>fileId=1624479&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/elchocolate35/duende-y-misterio-del-flamenco-92983/duende-y-misterio-del-flamenco-krs947-xa-zoo,1624479,list,1,1.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/elchocolate35/duende-y-misterio-del-flamenco-92983/duende-y-misterio-del-flamenco-krs947-xa-zoo,1624479,list,1,1.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/Duende_y_misterio.jpg</thumbnail>
+        <fanart>http://www.rinconflamenco.es/images/caratulas_pelis/Duende_y_misterio.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]HERENCIA FLAMENCA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pvDBXWpeI9c</link>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/50/51/20203618.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]TIEMPO DE LEYENDA[/COLOR]</title>
+<link>http://hlsvod.akcdn.rtve.es/resources/TE_NGVA/mp4/8/9/0000000070998.mp4/0000000070998-audio=96281-video=701000.m3u8</link>
+<thumbnail>http://estaticos02.elmundo.es/elmundo/imagenes/2009/06/14/1244971897_0.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR pink]GITANOS[/COLOR][COLOR white] AQUI Y[/COLOR][COLOR fuchsia] AHORA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=44Q5CuHqPUE</link>
+<thumbnail>http://aulaintercultural.org/wp-content/uploads/2016/04/Gitanos.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR pink]COBRA[/COLOR][COLOR white] GYP[/COLOR][COLOR fuchsia]SI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aNUYGRn3W9Q</link>
+<thumbnail>https://documentarystorm.com/files/2015/08/cobra-gypsies.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

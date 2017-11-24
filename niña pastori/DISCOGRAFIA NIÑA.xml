@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow]ENTRE [/COLOR] [COLOR blue]2 PUERTOS 1996[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ReGLBCewskE&amp;list=PLuvG5gCr3h6uEcVJ8TYfIoiw__h6IcOeG</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=ReGLBCewskE&list=PLuvG5gCr3h6uEcVJ8TYfIoiw__h6IcOeG
+ 
+                        <thumbnail>http://direct.rhapsody.com/imageserver/images/Alb.26872944/500x500.jpg</thumbnail>
+                        <fanart>http://direct.rhapsody.com/imageserver/images/Alb.26872944/500x500.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR yellow]ERES LUZ [/COLOR][COLOR blue] 1998[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=-ercOhDOJ30&amp;list=PLuvG5gCr3h6sKvwzkDmthGurkXDrw_doy</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=-ercOhDOJ30&list=PLuvG5gCr3h6sKvwzkDmthGurkXDrw_doy
+
+ 
+                        <thumbnail>http://mp3red.me/cover/1328108-460x460/eres-luz.jpg</thumbnail>
+                        <fanart>http://mp3red.me/cover/1328108-460x460/eres-luz.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]CAÑAILLAS[/COLOR] [COLOR blue]2002[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=k0SoPRsXvZc&amp;list=PLuvG5gCr3h6vk1OG4KCb2FKL5739oxRCO</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=k0SoPRsXvZc&list=PLuvG5gCr3h6vk1OG4KCb2FKL5739oxRCO
+ 
+                        <thumbnail>https://depaloenpalo.files.wordpress.com/2080/09/nina-pastori-canailla.jpg</thumbnail>
+                        <fanart>https://depaloenpalo.files.wordpress.com/2080/09/nina-pastori-canailla.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]MARIA [/COLOR][COLOR blue] 2002[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=iRLnwEEqtZo&amp;list=PL1DD078CE9C845FA1</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=iRLnwEEqtZo&list=PL1DD078CE9C845FA1
+ 
+                        <thumbnail>http://images.coveralia.com/audio/n/Nina_Pastori-Maria-CD.jpg</thumbnail>
+                        <fanart>http://images.coveralia.com/audio/n/Nina_Pastori-Maria-CD.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]NO HAY QUINTO MALO[/COLOR] [COLOR blue]2004[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=8-G7a2rV2UY&amp;list=PLuvG5gCr3h6uKWJIZxcHS9vZhNjWDtB0e</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=8-G7a2rV2UY&list=PLuvG5gCr3h6uKWJIZxcHS9vZhNjWDtB0e
+ 
+                        <thumbnail>http://streamd.hitparade.ch/cdimages/nina_pastori-no_hay_quinto_malo_a.jpg</thumbnail>
+                        <fanart>http://streamd.hitparade.ch/cdimages/nina_pastori-no_hay_quinto_malo_a.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR yellow]JOYAS PRESTADAS[/COLOR] [COLOR blue] 2006[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=tJ2u0RfrUtM&amp;list=PLuvG5gCr3h6v2W3M82qqq7JaFPit6DHvG</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=tJ2u0RfrUtM&list=PLuvG5gCr3h6v2W3M82qqq7JaFPit6DHvG
+ 
+                        <thumbnail>https://vignette3.wikia.nocookie.net/lyricwiki/images/a/a5/Ni%C3%B1a_Pastori_-_Joyas_prestadas.jpg</thumbnail>
+                        <fanart>https://vignette3.wikia.nocookie.net/lyricwiki/images/a/a5/Ni%C3%B1a_Pastori_-_Joyas_prestadas.jpg</fanart>
+ 
+</item>
+
+<item>
+<title>[COLOR yellow]ESPERANDO VERTE [/COLOR] [COLOR blue] 2008[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Pr_i9ak_6qo&amp;list=PLuvG5gCr3h6tIeDkNQnQnpkoqHDH-Cn9S</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=Pr_i9ak_6qo&list=PLuvG5gCr3h6tIeDkNQnQnpkoqHDH-Cn9S
+
+ 
+                        <thumbnail>https://gaditanosilustres.wikispaces.com/file/view/ni%C3%B1a-pastori-esperando-verte.jpg</thumbnail>
+                        <fanart>https://gaditanosilustres.wikispaces.com/file/view/ni%C3%B1a-pastori-esperando-verte.jpg</fanart>
+ 
+</item>
+
+
+<item>
+<title>[COLOR yellow]LA ORILLA DE MI PELO [/COLOR] [COLOR blue]2011[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=W4PQ2zJYiGo&amp;list=PL5BE1C879EBAD00DA</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=W4PQ2zJYiGo&list=PL5BE1C879EBAD00DA
+ 
+                        <thumbnail>http://www.cmtv.com.ar/tapas-cd/ninapastorilaorilla.jpg</thumbnail>
+                        <fanart>http://www.cmtv.com.ar/tapas-cd/ninapastorilaorilla.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]RAIZ[/COLOR] [COLOR blue]2014[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=vWKmegK5lr8&amp;list=PLca-NPl8lO8QPbIUKd-dT4tQtpfDTk3rt</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=vWKmegK5lr8&list=PLca-NPl8lO8QPbIUKd-dT4tQtpfDTk3rt
+
+ 
+                        <thumbnail>http://www.lahiguera.net/musicalia/artistas/nina_pastori/disco/5948/nina_pastori_raiz___con_lila_downs_y_soledad-portada.jpg</thumbnail>
+                        <fanart>http://www.lahiguera.net/musicalia/artistas/nina_pastori/disco/5948/nina_pastori_raiz___con_lila_downs_y_soledad-portada.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]AMAME COMO SOY[/COLOR] [COLOR blue] 2015[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=EhLDXGO6VF&amp;list=PLQuydrDxj0-e6iVaKxCtI3IUvWYc1GsJo</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=EhLDXGO6VFw&list=PLQuydrDxj0-e6iVaKxCtI3IUvWYc1GsJo
+
+ 
+                        <thumbnail>https://http2.mlstatic.com/nina-pastori-amame-como-soy-cd-D_NQ_NP_880021-MLA20680625854_042016-F.jpg</thumbnail>
+                        <fanart>https://http2.mlstatic.com/nina-pastori-amame-como-soy-cd-D_NQ_NP_880021-MLA20680625854_042016-F.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR orange] PARRITA 200[/COLOR][COLOR yellow] VIDEOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=2VDErJYGyM4&amp;list=PL2Wzz_MrxoUj9rshujDatpvCjswEtmxDE</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=2VDErJYGyM4&list=PL2Wzz_MrxoUj9rshujDatpvCjswEtmxDE
+ 
+                        <thumbnail>https://i.ytimg.com/vi/m2dJRzdCUj4/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/m2dJRzdCUj4/hqdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR orange] PARRITA TODAS [/COLOR][COLOR yellow] LAS CANCIONES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=RVCCUpwqxjQ&amp;list=PL2Wzz_MrxoUjXMhRS2Y2hoG3iMbEZYuYr</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=RVCCUpwqxjQ&list=PL2Wzz_MrxoUjXMhRS2Y2hoG3iMbEZYuYr
+ 
+                        <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Music7/v4/fa/f8/57/faf857f6-9243-2118-bd82-47065206709f/15UMGIM16502.jpg/1200x630bb.jpg</thumbnail>
+<fanart>https://is2-ssl.mzstatic.com/image/thumb/Music7/v4/fa/f8/57/faf857f6-9243-2118-bd82-47065206709f/15UMGIM16502.jpg/1200x630bb.jpg</fanart>
+ 
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange] CONCIERTOS  [/COLOR][COLOR yellow] DE PARRITA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=3HuXBz_iGCw&amp;list=PLPbOvCorAaEYh7cPtAACXxCH22YiLdyER</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=3HuXBz_iGCw&list=PLPbOvCorAaEYh7cPtAACXxCH22YiLdyER
+ 
+                        <thumbnail>https://i.ytimg.com/vi/hDlUUjOrbS0/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/hDlUUjOrbS0/hqdefault.jpg</fanart>
+ 
+</item>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR pink]CINE KINKI[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>http://jdcdn.wabisabiinvestme.netdna-cdn.com/wp-content/uploads/2012/04/image02.jpg</thumbnail>
+		<fanart>http://jdcdn.wabisabiinvestme.netdna-cdn.com/wp-content/uploads/2012/04/image02.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/cine-kinki-el-rockero-37859/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+		<thumbnail>http://jdcdn.wabisabiinvestme.netdna-cdn.com/wp-content/uploads/2012/04/image02.jpg</thumbnail>
+		<fanart>http://jdcdn.wabisabiinvestme.netdna-cdn.com/wp-content/uploads/2012/04/image02.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]VENGO[/COLOR]</title>
+<urlsolve>https://ok.ru/video/95915477744
+ 
+</urlsolve>
+<thumbnail>https://cloud10.todocoleccion.online/cine-revistas/tc/2013/07/24/38359314.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/cine-revistas/tc/2013/07/24/38359314.jpg</fanart>
+<info>Caco, patriarca gitano, ahoga sus penas en juergas y alcohol, esta atormentado por
+ la muerte de su hija, ademas, cuando su hermano huyo a Africa
+ tras asesinar a un miembro de otra familia gitana, tuvo que quedarse
+ al cuidado de su sobrino Diego, que sufre una paralisis cerebral</info>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR red]TIEMPO DE LEYENDA[/COLOR]</title>
+<link>http://hlsvod.akcdn.rtve.es/resources/TE_NGVA/mp4/8/9/0000000070998.mp4/0000000070998-audio=96281-video=701000.m3u8</link>
+<thumbnail>http://estaticos02.elmundo.es/elmundo/imagenes/2009/06/14/1244971897_0.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR `pink]LA FARAONA Lola Flores[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=385987</page>
+<rawpost>fileId=385987&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/trivianita/cine-de-barrio-parte-5-el-rockero-37465/la-faraona-lola-flores-1955,385987,list,5,4.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/trivianita/cine-de-barrio-parte-5-el-rockero-37465/la-faraona-lola-flores-1955,385987,list,5,4.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2009/04/08/12809941.jpg</thumbnail>
+        <fanart>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2009/04/08/12809941.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR `lime]DUENDE Y MISTERIO DEL FLAMENCO[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1624479</page>
+<rawpost>fileId=1624479&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/elchocolate35/duende-y-misterio-del-flamenco-92983/duende-y-misterio-del-flamenco-krs947-xa-zoo,1624479,list,1,1.avi</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/elchocolate35/duende-y-misterio-del-flamenco-92983/duende-y-misterio-del-flamenco-krs947-xa-zoo,1624479,list,1,1.avi</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/Duende_y_misterio.jpg</thumbnail>
+        <fanart>http://www.rinconflamenco.es/images/caratulas_pelis/Duende_y_misterio.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]HERENCIA FLAMENCA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pvDBXWpeI9c</link>
+<thumbnail>http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/92/50/51/20203618.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR aquamarine]CARMEN[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1624390</page>
+<rawpost>fileId=1624390&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/elchocolate35/carmen-92980/carmen,1624390,list,1,1.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/elchocolate35/carmen-92980/carmen,1624390,list,1,1.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/carmen.jpg</thumbnail>
+        <fanart>http://www.rinconflamenco.es/images/caratulas_pelis/carmen.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]ALMA GITANA[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1624337</page>
+<rawpost>fileId=1624337&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/elchocolate35/alma-gitana-92962/pccineforum-alma-gitana,1624337,list,1,1.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/elchocolate35/alma-gitana-92962/pccineforum-alma-gitana,1624337,list,1,1.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>http://es.web.img3.acsta.net/c_300_300/medias/nmedia/18/92/10/49/20181039.jpg</thumbnail>
+        <fanart>http://es.web.img3.acsta.net/c_300_300/medias/nmedia/18/92/10/49/20181039.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]El amor brujo[/COLOR]</title>
+<urlsolve>https://ok.ru/video/95456070384
+ 
+</urlsolve>
+<thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/El_amor_brujo.jpg</thumbnail>
+<fanart>http://www.rinconflamenco.es/images/caratulas_pelis/El_amor_brujo.jpg</fanart>
+<info>El amor brujo es una película de cine española, dirigida por Carlos Saura en el año 1986. Es la tercera parte de la trilogía sobre el flamenco de este director.
+El amor, el baile y la muerte son las tres claves de "El amor brujo"
+ Está basada en el ballet El amor brujo de Manuel de Falla</info>
+</item>
+
+
+<item>
+<title>[COLOR orange]CON EL VIENTO SOLANO *1966*[/COLOR]</title>
+<urlsolve>https://ok.ru/video/95844436720
+ </urlsolve>
+<thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/Con_el_viento_solano.jpg</thumbnail>
+<fanart>http://www.rinconflamenco.es/images/caratulas_pelis/Con_el_viento_solano.jpg</fanart>
+<info>La vida de Sebastián, un gitano de veintiocho años, cambia radicalmente cuando mata a un hombre. A partir de ese momento, debe huir, conocer el infierno de la soledad y el rechazo de los suyos.</info>
+</item>
+
+<item>
+<title>[COLOR red]BODAS DE SANGRE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f-5OABBw2O4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fi/0/00/Bodas-de-sangre-juliste.jpg</thumbnail>
+</item>
+
+
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dJ6nwwbbljA</link>
+
+
+
+
+
+<item>
+<title>[COLOR orange]GITANO "JOAQUIN CORTES" [/COLOR]</title>
+<urlsolve>https://ok.ru/video/88762550870
+
+</urlsolve>
+<thumbnail>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2009/04/03/12727673.jpg</thumbnail>
+<fanart>https://cloud10.todocoleccion.online/cine-guias-peliculas/tc/2009/04/03/12727673.jpg</fanart>
+<info>Tras pasar dos años en la cárcel por un delito que no cometió, Andrés Heredia recobra la libertad. Su único objetivo es comenzar una nueva vida y olvidar el pasado. Pero el odio, el rencor y la sed de venganza de su familia lo enfrentan a la oscura trama que lo llevó a prisión... y a la mujer que lo traicionó</info> 
+</item>
+
+<item>
+<title>[COLOR pink]LA HISTORIA [/COLOR][COLOR fuchsia]DE [/COLOR][COLOR red]ESTRELLA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dJ6nwwbbljA</link>
+<thumbnail>https://i.ytimg.com/vi/dJ6nwwbbljA/hqdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR green]CALE[/COLOR][COLOR white] LA PAYA[/COLOR][COLOR green] Y LA GITANA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ndi2a9sFMls</link>
+<thumbnail>http://cloud10.todocoleccion.online/cine-fotos-postales/tc/2010/02/02/17329502.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR red]LA[/COLOR][COLOR brown] VENG[/COLOR][COLOR red]ANZA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UUKOq52RXzE</link>
+<thumbnail>https://i.ytimg.com/vi/E205XM_4tPY/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR orange]VUELVE [/COLOR][COLOR brown]LA [/COLOR][COLOR blue]MOÑETE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4zJpQY-yOKY</link>
+<thumbnail>https://i.ytimg.com/vi/4zJpQY-yOKY/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR red]POR [/COLOR][COLOR fuchsia]MI [/COLOR][COLOR red]SANGRE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2jPGHnWpfUg</link>
+<thumbnail>https://i.ytimg.com/vi/2jPGHnWpfUg/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]VIDA[/COLOR][COLOR fuchsia]BUENA [/COLOR][COLOR white]VIDA MALA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZJkdb_7KUm4</link>
+<thumbnail>https://i.ytimg.com/vi/0itqFMwLzDk/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]ANTONIA[/COLOR][COLOR green]CORTOMETRAJE [/COLOR][COLOR yellow]GITANO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ifbcSbz-PuU</link>
+<thumbnail>http://www.teleprensa.com/imgnews/CartelAntonia.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR pink]EL TESORO [/COLOR][COLOR fuchsia]DEL [/COLOR][COLOR red]GITANO TUERTO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EnoyHDeblRM</link>
+<thumbnail>https://i.ytimg.com/vi/EnoyHDeblRM/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR coral]LOS [/COLOR][COLOR brown] TARANTOS[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/g4rffg0iiifv</urlsolve>
+<thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/Los_Tarantos.jpg</thumbnail>
+<info>Crónica sobre el feroz enfrentamiento entre dos familias gitanas de Barcelona: "Los Tarantos" y "Los Zorongos".
+ En una boda, Rafael, el Taranto, conoce a Juana, La Zoronga. Los dos jóvenes, envueltos por la magia de la fiesta,
+ se juran amor eterno con un pacto de sangre. Tras una noche de amor, descubren con desesperación que pertenecen a las dos familias rivales. 
+La madre de Rafael, seducida por el embrujo del baile de Juana, supera el odio ancestral, 
+pero el padre de Juana se niega aceptar el enlace</info> 
+</item>
+
+
+
+<item>
+<title>[COLOR brown]MONTOYAS Y[/COLOR][COLOR coral] TARANTOS[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/pa61wbcvrvcz</urlsolve>
+<thumbnail>http://www.rinconflamenco.es/images/caratulas_pelis/Montoyas_y_Tarantos.jpg</thumbnail>
+<info> la película nos cuenta la historia de dos familias gitanas rivales: los Montoya, ricos y poderosos, ...</info> 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]CAMARON [/COLOR][COLOR orange] LA PELICULA[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/pof9bjqmpjrs</urlsolve>
+<thumbnail>http://www.elmulticine.com/imagenes/carteles/camaron_b.jpg</thumbnail>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR golden]CRIANDO[/COLOR][COLOR yellow] RATAS[/COLOR]</title>
+<urlsolve>http://streamcloud.eu/3wsncbg6vnc1</urlsolve>
+<thumbnail>https://pbs.twimg.com/media/CyWrZv0WQAAVqHR.jpg</thumbnail>
+<info>CriandoRatas es un largometraje de género #neoquinqui desarrollado entre los años 2010 y 2016
+de manera independiente y colaborativa por el cineasta y compositor Carlos Salado.</info> 
+</item>
+
+
+
+<item>
+<title>[COLOR pink]SANDRO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Y2IcPveFUE</link>
+<thumbnail>https://vosyoyel.files.wordpress.com/2012/12/sandro-gitano.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]REY[/COLOR][COLOR yellow]GI[/COLOR][COLOR red]TANO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-FrpH-hQOkk</link>
+<thumbnail>http://tienda.canalocio.es/34068-211183-thickbox/rey-gitano.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR green]PACO DE LUCIA[/COLOR][COLOR fuchsia]GI[/COLOR][COLOR red]TANA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wSMRJMCenKE</link>
+<thumbnail>https://i.ytimg.com/vi/wSMRJMCenKE/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]FLAMENCO[/COLOR][COLOR white] LA[/COLOR][COLOR fuchsia] PELICULA 1995[/COLOR]</title>
+<link>$doregex[getUrl]</link>
+ 
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=1016578</page>
+<rawpost>fileId=1016578&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/Maraton/la-2-historia-del-cine-espanol-71102/flamenco-1995-esp,1016578.mp4</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/Maraton/la-2-historia-del-cine-espanol-71102/flamenco-1995-esp,1016578.mp4</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+        <thumbnail>https://image.tmdb.org/t/p/w500/7z5GFKub6CRRB6bP1JcDtDhq2az.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/w500/7z5GFKub6CRRB6bP1JcDtDhq2az.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR brown]flamenco flamenco 2010[/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail>https://dvdsaxxo.files.wordpress.com/2010/12/flamenco-1995-dir-carlos-saura.jpg</thumbnail>
+<info> la película nos cuenta la historia de dos familias gitanas rivales: los Montoya, ricos y poderosos, ...</info> 
+</item>
+
+
+
+
+<item>
+<title>[COLOR aquamarine]POLIGONO SUR *ARREGLADA*[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR red]  [makelist.param3][/COLOR] </title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail>https://i1.wp.com/gestioncultura.cervantes.es/COMUNES/6051_I_V_PoligonoSur.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/it_comes_at_night-393994597-mmed.jpg</fanart>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/elchocolate35/poligonosur-92941</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection> 
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>ok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx</referer>
+<connection>keep-alive</connection> 
+<cookieJar></cookieJar>
+</regex>
+			<thumbnail>https://i1.wp.com/gestioncultura.cervantes.es/COMUNES/6051_I_V_PoligonoSur.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/it_comes_at_night-393994597-mmed.jpg</fanart>
+</item>
+
+

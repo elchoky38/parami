@@ -1,0 +1,53 @@
+
+<item>
+<title>[COLOR green]las Mejores canciones de Casta[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+					
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=JnvwAnzrKQI&amp;list=PLbjrq1yGNN1bPufVQzq9SdAD_P5D8TPVM</page>
+             <cookieJar></cookieJar>
+</regex>https://www.youtube.com/watch?v=JnvwAnzrKQI&list=PLbjrq1yGNN1bPufVQzq9SdAD_P5D8TPVM
+
+
+                        <thumbnail>https://i.ytimg.com/vi/LlNaIGg07sA/hqdefault.jpg</thumbnail>
+						<fanart>https://i.ytimg.com/vi/LlNaIGg07sA/hqdefault.jpg</fanart>
+
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]LOS CASTA - VIVA LA LIBERTAD - 1985 - ÁLBUM COMPLETO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ouUKuj_N1zo</link>
+<thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2017/07/03/21/91757530.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR red]CASTA "LEY GITANA" (1.987) DISCO COMPLETO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J_msur43JnQ</link>
+<thumbnail>http://images.coveralia.com/audio/c/Casta-Ley_Gitana-Frontal.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]CASTA "LA LLAMA DEL AMOR" (1.988) DISCO COMPLETO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Niazlf1ckEw</link>
+<thumbnail>https://cloud10.todocoleccion.online/discos-vinilo/tc/2016/09/09/10/60033643.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]CASTA "TODO CORAZÓN" (1.996) DISCO COMPLETO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c2C8KVLYfZE</link>
+<thumbnail>https://i.ytimg.com/vi/h27PM6XSBi0/hqdefault.jpg</thumbnail>
+</item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><item>
+
+
+
+ <item>
+<title>[COLOR fuchsia] NIÑA PASTORI DISCOGRAFIA[/COLOR] </title>
+<link>ignoreme</link>
+<thumbnail>http://images.coveralia.com/audio/n/Nina_Pastori-Esperando_Verte-CD.jpg</thumbnail>
+<fanart>http://images.coveralia.com/audio/n/Nina_Pastori-Esperando_Verte-CD.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elanonimo35/elgitano/master/ni%C3%B1a%20pastori/DISCOGRAFIA%20NI%C3%91A.xml</externallink>  
+</item>
+
+
+<item>
+<title>[COLOR yellow]VIDEOS DE LA [/COLOR] [COLOR blue]NIÑA PASTORI[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=lbaK1i6gGtU&amp;list=PL_QN0J_UH489wOqgC7UftYYRTLKMSroeJ</page>
+             <cookieJar></cookieJar>
+</regex>
+https://www.youtube.com/watch?v=2VDErJYGyM4&list=PL2Wzz_MrxoUj9rshujDatpvCjswEtmxDE
+ 
+                        <thumbnail>https://i.ytimg.com/vi/Uwx2BFEcsrI/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/Uwx2BFEcsrI/hqdefault.jpg</fanart>
+ 
+</item>

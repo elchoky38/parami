@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR blue]Boda Angara y Fernando[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AROGZzAc0lA</link>
+<thumbnail>https://i.ytimg.com/vi/AROGZzAc0lA/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO DE [/COLOR][COLOR fuchsia]TERE Y CAMPANO[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=zPd77G5PVfE&amp;list=PLPbOvCorAaEZu-zvei5MQjF44xr4D_mVw</page>
+             <cookieJar></cookieJar>
+</regex>
+en esta solo cambiar v= y list=
+ 
+                        <thumbnail>https://i.ytimg.com/vi/cVGRG1IpqFo/maxresdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/cVGRG1IpqFo/maxresdefault.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO DE [/COLOR][COLOR fuchsia]JENY Y TONY[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=7KLYTIzm2z8&amp;list=PLPbOvCorAaEb_eSMUMnh89lrunzUH6mcd</page>
+             <cookieJar></cookieJar>
+</regex>
+en esta solo cambiar v= y list=https://www.youtube.com/watch?v=9ar6p4BA_sU&t&index=1&list=PLPbOvCorAaEb_eSMUMnh89lrunzUH6mcd
+ 
+                        <thumbnail>https://i.ytimg.com/vi/r7UsahUQKRE/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/r7UsahUQKRE/hqdefault.jpg</fanart>
+ 
+</item>
+https://www.youtube.com/watch?v=9ar6p4BA_sU&t=43s&index=1&list=PLPbOvCorAaEb_eSMUMnh89lrunzUH6mcd
+
+
+
+<item>
+<title>[COLOR brown]BODAS [/COLOR] [COLOR yellow]Y[/COLOR] [COLOR white]DOCUMENTALES GITANOS[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCMTHO8Zw-VqUVYbU38f-ghQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-_w3LtEHINgU/AAAAAAAAAAI/AAAAAAAAAAA/XdCWX8PLl9M/s288-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR green]BODAS [/COLOR][COLOR green]GITANAS RESUMENES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=7KLYTIzm2z8&amp;list=PLzOPLiDj98Vuzvqj-Zsq8skmO1Xm9EPaW</page>
+             <cookieJar></cookieJar>
+</regex>
+en esta solo cambiar v= y list=https://www.youtube.com/watch?v=cHnDutTwMro&index=1&list=PLPbOvCorAaEZDa3QsUhJta3ertSTAT58s
+ 
+                        <thumbnail>https://i.ytimg.com/vi/NM3E3D7KA2M/hqdefault.jpg</thumbnail>
+                        <fanart>https://i.ytimg.com/vi/NM3E3D7KA2M/hqdefault.jpg</fanart>
+ 
+</item>
+https://www.youtube.com/watch?v=7KLYTIzm2z8&list=PLzOPLiDj98Vuzvqj-Zsq8skmO1Xm9EPaW
+
+https://i.ytimg.com/vi/eiLElvdNRJw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuf0aXvmyu40AffrdBUS3A4zp_zg
+
+<item>
+<title>[COLOR pink]BODA DE [/COLOR][COLOR fuchsia] VICTORIA [/COLOR][COLOR blue]Y JUAN[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eiLElvdNRJw</link>
+<thumbnail>https://i.ytimg.com/vi/eiLElvdNRJw/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR pink]BODA DE [/COLOR][COLOR fuchsia]CARMEN [/COLOR][COLOR red]Y JUANITO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9WmmPKLm0Yw</link>
+<thumbnail>https://i.ytimg.com/vi/9WmmPKLm0Yw/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]BODA DE [/COLOR][COLOR fuchsia]CARMEN [/COLOR][COLOR red]Y CRISTIAN PARTE1[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pw3DwdKKkP0</link>
+<thumbnail>https://i.ytimg.com/vi/Pw3DwdKKkP0/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR pink]BODA DE [/COLOR][COLOR fuchsia]CARMEN [/COLOR][COLOR red]Y CRISTIAN PARTE2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Byr324-7alo</link>
+<thumbnail>https://i.ytimg.com/vi/Pw3DwdKKkP0/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]GITANA[/COLOR][COLOR red]MUCHO GLAMUR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9KSJo0TELkk</link>
+<thumbnail>https://i.ytimg.com/vi/v2ENjH4LYXg/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]BODA DE[/COLOR][COLOR fuchsia]MARGARITA [/COLOR][COLOR red]Y RAUL -1 PARTE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xXxYzkZFOU8</link>
+<thumbnail>https://i.ytimg.com/vi/xXxYzkZFOU8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BODA DE[/COLOR][COLOR fuchsia]MARGARITA [/COLOR][COLOR red]Y RAUL -2 PARTE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_lg_KrJ8P3U</link>
+<thumbnail>https://i.ytimg.com/vi/xXxYzkZFOU8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BODA DE[/COLOR][COLOR fuchsia]MARGARITA [/COLOR][COLOR red]Y RAUL -3 PARTE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eUSYqdQl5nk</link>
+<thumbnail>https://i.ytimg.com/vi/xXxYzkZFOU8/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]BODA DE[/COLOR][COLOR fuchsia]ISABEL [/COLOR][COLOR red]Y LUIS FAMILIA FARRU[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=h2uy_Y9IwEk</link>
+<thumbnail>https://i.ytimg.com/vi/h2uy_Y9IwEk/hqdefault.jpg</thumbnail>
+</item>
+
+
+XpgjFqEvPGs
+
+
+
+<item>
+<title>[COLOR pink]BODA DE[/COLOR][COLOR fuchsia]CHINA [/COLOR][COLOR red]Y JOSE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XpgjFqEvPGs</link>
+<thumbnail>https://i.ytimg.com/vi/XpgjFqEvPGs/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]GITANA CON [/COLOR][COLOR red]MUCHO LUJO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V31bygsvwcA</link>
+<thumbnail>https://i.ytimg.com/vi/gPU5utPHOhA/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]AMANDA HIJA DE LOS CHUNGUITOS [/COLOR][COLOR red]Y JOSE[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ftsbVKF3pm8</link>
+<thumbnail>https://i.ytimg.com/vi/ftsbVKF3pm8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]SARA [/COLOR][COLOR red]Y OSCAR[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Uk4oeFfx_pA</link>
+<thumbnail>https://i.ytimg.com/vi/Qi4KYtgRvLQ/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]YUMARA [/COLOR][COLOR red]Y NANI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gf5pgNgAzr0</link>
+<thumbnail>https://i.ytimg.com/vi/Gf5pgNgAzr0/maxresdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR pink]BODA [/COLOR][COLOR fuchsia]YUMARA [/COLOR][COLOR red]Y NANI LA FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AtexJf2wmdg</link>
+<thumbnail>https://i.ytimg.com/vi/Gf5pgNgAzr0/maxresdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue]PEDIMIENTO[/COLOR][COLOR fuchsia]ROCIO [/COLOR][COLOR red]Y PEPILLO[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cv4GwxT1zrk</link>
+<thumbnail>https://i.ytimg.com/vi/Cv4GwxT1zrk/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO[/COLOR][COLOR fuchsia]NOEMI [/COLOR][COLOR red] FIESTA[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8jD_jMwor2Y</link>
+<thumbnail>https://i.ytimg.com/vi/8jD_jMwor2Y/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO[/COLOR][COLOR fuchsia]NOEMI [/COLOR][COLOR red] FIESTA 2[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_6XLCibtwXg</link>
+<thumbnail>https://i.ytimg.com/vi/8jD_jMwor2Y/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO[/COLOR][COLOR fuchsia]DE [/COLOR][COLOR red] JUANI[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JPugDczNtdw</link>
+<thumbnail>https://i.ytimg.com/vi/JPugDczNtdw/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue]PEDIMIENTO[/COLOR][COLOR fuchsia]NOEMI Y [/COLOR][COLOR red] MANUEL [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i2c7Xrd6m5c</link>
+<thumbnail>https://i.ytimg.com/vi/i2c7Xrd6m5c/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
