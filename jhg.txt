@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pyq9L8pbAZg</link>
+<thumbnail>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR yellow] Carnavales cadiz [/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kmeoPjWD7KE</link>
+<thumbnail>http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oUKU245HJto</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jid_i_N_0aA</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jid_i_N_0aA</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS ESPAÑA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y_wn6C8CKVo</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ** [/COLOR][COLOR orange] PROXIMAMENTE [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Y_wn6C8CKVo</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+</item>
+
